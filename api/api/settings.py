@@ -26,7 +26,7 @@ SECRET_KEY = 'ebmy#8)%jock(6176n83#ut!xe#q7m0cx4*#g%_65c1kb7c^v9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://todo-app-shreedhar.herokuapp.com/','http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['todo-app-shreedhar.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
